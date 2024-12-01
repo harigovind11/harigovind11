@@ -2,9 +2,12 @@
 
 ###
 
-<h2 align="left">I'm Harigovind, a passionate Game Developer hailing from the vibrant land of India. 🌏🎮<br>Crafting immersive worlds and unforgettable gaming experiences is what I love to do. <br>Let's bring ideas to life.</h2>
+<h2 align="left">I'm Harigovind, a passionate Game Developer hailing from the vibrant land of India. <br>Crafting immersive worlds and unforgettable gaming experiences is what I love to do. <br>Let's bring ideas to life.</h2>
 
 ###
+
+<img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVoNDZncmd0ZDZyb3lycXZ1d2RtaGMzZDI3Zm5vbm0wNGVtNmNiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -72,8 +75,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVoNDZncmd0ZDZyb3lycXZ1d2RtaGMzZDI3Zm5vbm0wNGVtNmNiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+
 
 ###
