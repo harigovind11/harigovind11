@@ -2,7 +2,7 @@
  <br>I'm Harigovind, a passionate Game Developer hailing from the vibrant land of India.<br>Crafting immersive worlds and unforgettable gaming experiences is what I love to do. <br>Let's bring ideas to life.
 
 # 🌱 I'm currently learning:
- <br>- AR/VR<br>- Godot<br>- Blender<br>- DotNet core
+ <br>- XR<br>- Godot<br>- HLSL<br>- DotNet core
 
 
 ## 🌐 Socials:
